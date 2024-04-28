@@ -7,6 +7,10 @@ p {
     margin-bottom: 20px;
 }
 
+img {
+  max-width: 100%;
+}
+
 hr {
     margin: 0;
     padding-bottom: 24px;
